@@ -9,8 +9,7 @@
 
 ###
 
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<img align="right" height="200" src="img/dino15.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -53,5 +52,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DanielWidhi/DanielWidhi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielWidhi/DanielWidhi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielWidhi/DanielWidhi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanielWidhi/DanielWidhi/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
