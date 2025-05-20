@@ -1,4 +1,4 @@
-![Header](img/head.png)
+![Header](img/head2.png)
 
 <!-- <h2 align="left">Hi 👋! My name is Daniel Widhi and I'm a CEO, from GDPARTSTUDIO</h2> -->
 
